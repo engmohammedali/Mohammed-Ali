@@ -18,4 +18,8 @@ Flutter developer | Software engineer :robot:. (In progress)
 
 
 
+- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.abdilim@foxmail.com)
+
+
+
 
