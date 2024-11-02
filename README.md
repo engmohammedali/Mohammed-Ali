@@ -13,4 +13,4 @@ Flutter developer | Software engineer :robot:. (In progress)
 
 
 ## Social media :mailbox_with_no_mail:
-[![Twitter URL](www.linkedin.com/in/mohammedali2003/)
+(www.linkedin.com/in/mohammedali2003)
