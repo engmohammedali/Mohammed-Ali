@@ -16,7 +16,7 @@ Flutter developer | Software engineer :robot:. (In progress)
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/mohammedali2003/)
 
 
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mohammedaliabomhde@gmail.com)
+- Email: [![Email](https://img.shields.io/badge/mohammedaliabomhde@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mohammedaliabomhde@gmail.com)
 
 
 
