@@ -3,7 +3,6 @@
 
 Flutter developer | Software engineer :robot:. (In progress)
 
-Holberton School Student. :man_technologist:
 
 ## About me 
 
