@@ -15,6 +15,6 @@ Flutter developer | Software engineer :robot:. (In progress)
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flatsquare&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandroramirez-ciceros%2F)](www.linkedin.com/in/mohammedali2003)
 
-
+[![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/alejandro-ramirez-ciceros/)
 
 
