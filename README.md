@@ -24,4 +24,3 @@ Holberton School Student. :man_technologist:
 [![Twitter URL](https://img.shields.io/twitter/url?color=orange&label=follow&logo=reddit&logoColor=orange&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://www.reddit.com/user/FatChicken277)
 
 ---
-⭐️ From [FatChicken277](https://github.com/FatChicken277)
