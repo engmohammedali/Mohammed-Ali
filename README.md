@@ -3,7 +3,7 @@
 
 # Hi, I'm Mohammed Ali :chicken:
 
-Full-Stack | Software engineer :robot:. (In progress)
+Flutter developer | Software engineer :robot:. (In progress)
 
 Holberton School Student. :man_technologist:
 
