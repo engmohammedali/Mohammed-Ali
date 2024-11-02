@@ -1,7 +1,7 @@
 
 # Hi, I'm Mohammed Ali 
 
-Flutter developer | Software engineer :robot:. (In progress)
+Flutter developer | Software engineer :robot:
 
 
 ## About me 
